@@ -1,8 +1,5 @@
 #React Blog App
 
-<h2>Deployed</h2>
-https://machikolacey.github.io/react-blog-app/
-
 <h2>The task</h2>
 <p>Develop a simple blog with the ability to search and filter posts, and view / add comments. Application must be a SPA and use multiple routes (defined below)</p>
 
@@ -26,9 +23,7 @@ https://machikolacey.github.io/react-blog-app/
 <li>React Router</li>
 <li>Form Validation</li>
 <li>JS functionalities</li>
-<li>Index - Title Search</li>
-<li>Inde - Catalog Search</li>
-<li>View Post Page - Comment form</li>
-<li>Display comments when submitted on front-end(Not saved on backend)<li>
 </ul>
 
+<h2>Deployed</h2>
+https://machikolacey.github.io/react-blog-app/
