@@ -1,4 +1,7 @@
 {
-    "apiEndpoint": "https://jsonplaceholder.typicode.com/posts"
+    "apiEndpoint": "https://jsonplaceholder.typicode.com/posts"	,
+    "devServer": {
+		"contentBase": "./build"
+	}
 }
   
