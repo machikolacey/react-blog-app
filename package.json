@@ -27,11 +27,13 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "webpack --mode production",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "start:dev": "cross-env NODE_ENV=development \"webpack-dev-server\"",
+   
   },
   "eslintConfig": {
     "extends": "react-app"
