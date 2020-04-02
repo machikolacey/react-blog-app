@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/react-blog-app/static/css/main.a465b34a.chunk.css",
-    "main.js": "/react-blog-app/static/js/main.f2d9c4fb.chunk.js",
-    "main.js.map": "/react-blog-app/static/js/main.f2d9c4fb.chunk.js.map",
-    "runtime-main.js": "/react-blog-app/static/js/runtime-main.31953137.js",
-    "runtime-main.js.map": "/react-blog-app/static/js/runtime-main.31953137.js.map",
+    "main.js": "/react-blog-app/static/js/main.c28e5862.chunk.js",
+    "main.js.map": "/react-blog-app/static/js/main.c28e5862.chunk.js.map",
+    "runtime-main.js": "/react-blog-app/static/js/runtime-main.e3696196.js",
+    "runtime-main.js.map": "/react-blog-app/static/js/runtime-main.e3696196.js.map",
     "static/css/2.89f067aa.chunk.css": "/react-blog-app/static/css/2.89f067aa.chunk.css",
-    "static/js/2.3f60ec32.chunk.js": "/react-blog-app/static/js/2.3f60ec32.chunk.js",
-    "static/js/2.3f60ec32.chunk.js.map": "/react-blog-app/static/js/2.3f60ec32.chunk.js.map",
+    "static/js/2.3532f529.chunk.js": "/react-blog-app/static/js/2.3532f529.chunk.js",
+    "static/js/2.3532f529.chunk.js.map": "/react-blog-app/static/js/2.3532f529.chunk.js.map",
     "index.html": "/react-blog-app/index.html",
-    "precache-manifest.d0fe424f5fd528b74106a04d993df892.js": "/react-blog-app/precache-manifest.d0fe424f5fd528b74106a04d993df892.js",
+    "precache-manifest.b2aef26c3764dfe46ee0e14e644975ce.js": "/react-blog-app/precache-manifest.b2aef26c3764dfe46ee0e14e644975ce.js",
     "service-worker.js": "/react-blog-app/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/react-blog-app/static/css/2.89f067aa.chunk.css.map",
     "static/css/main.a465b34a.chunk.css.map": "/react-blog-app/static/css/main.a465b34a.chunk.css.map",
-    "static/js/2.3f60ec32.chunk.js.LICENSE.txt": "/react-blog-app/static/js/2.3f60ec32.chunk.js.LICENSE.txt",
+    "static/js/2.3532f529.chunk.js.LICENSE.txt": "/react-blog-app/static/js/2.3532f529.chunk.js.LICENSE.txt",
     "static/media/_resized_1280.jpg": "/react-blog-app/static/media/_resized_1280.6022c4d4.jpg",
     "static/media/_resized_300.jpg": "/react-blog-app/static/media/_resized_300.353f8ae3.jpg",
     "static/media/_resized_768.jpg": "/react-blog-app/static/media/_resized_768.59595eb8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.31953137.js",
+    "static/js/runtime-main.e3696196.js",
     "static/css/2.89f067aa.chunk.css",
-    "static/js/2.3f60ec32.chunk.js",
+    "static/js/2.3532f529.chunk.js",
     "static/css/main.a465b34a.chunk.css",
-    "static/js/main.f2d9c4fb.chunk.js"
+    "static/js/main.c28e5862.chunk.js"
   ]
 }
