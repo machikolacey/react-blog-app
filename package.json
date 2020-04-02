@@ -1,5 +1,5 @@
 {
-  "homepage" : "http://machikolacey.github.io/react-blog-app",
+  "homepage": "http://machikolacey.github.io/react-blog-app",
   "name": "react-recruitment-task",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +13,7 @@
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
+    "gh-pages": "^2.2.0",
     "joi-browser": "^13.4.0",
     "moment": "^2.24.0",
     "react": "^16.13.0",
@@ -29,7 +30,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
