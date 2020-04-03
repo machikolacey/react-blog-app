@@ -23,4 +23,9 @@
 <li>React Router</li>
 <li>Form Validation</li>
 <li>JS functionalities</li>
+<li>Index page - Keyword Search</li>
+<li>Index page - Catalog Search</li>
+<li>Viewpost page - comment added from Json</li>
+<li>Comment form - saved & displayed on Front-end</li>
 </ul>
+
