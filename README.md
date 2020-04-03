@@ -24,6 +24,3 @@
 <li>Form Validation</li>
 <li>JS functionalities</li>
 </ul>
-
-<h2>Deployed</h2>
-https://machikolacey.github.io/react-blog-app/
