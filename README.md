@@ -14,10 +14,10 @@ https://machikolacey.github.io/react-blog-app/
 
 <h2>Screens</h2>
 <div class="leftfloat" style="width:50%;float:left;">
-<img src="react-blog-app-home.png" />
+<img src="github-react-blog.jpg" />
 </div>
 <div class="leftfloat" style="width:50%;float:left;">
-<img src="react-blog-app-viewpost.png" />
+<img src="github-react-view.jpg" />
 </div>
 
 
