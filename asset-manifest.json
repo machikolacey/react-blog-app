@@ -1,19 +1,22 @@
 {
   "files": {
     "main.css": "/react-blog-app/static/css/main.53ffc30f.chunk.css",
-    "main.js": "/react-blog-app/static/js/main.2ae3694e.chunk.js",
-    "main.js.map": "/react-blog-app/static/js/main.2ae3694e.chunk.js.map",
+    "main.js": "/react-blog-app/static/js/main.a01aca01.chunk.js",
+    "main.js.map": "/react-blog-app/static/js/main.a01aca01.chunk.js.map",
     "runtime-main.js": "/react-blog-app/static/js/runtime-main.31953137.js",
     "runtime-main.js.map": "/react-blog-app/static/js/runtime-main.31953137.js.map",
     "static/css/2.89f067aa.chunk.css": "/react-blog-app/static/css/2.89f067aa.chunk.css",
-    "static/js/2.3f60ec32.chunk.js": "/react-blog-app/static/js/2.3f60ec32.chunk.js",
-    "static/js/2.3f60ec32.chunk.js.map": "/react-blog-app/static/js/2.3f60ec32.chunk.js.map",
+    "static/js/2.22218bdb.chunk.js": "/react-blog-app/static/js/2.22218bdb.chunk.js",
+    "static/js/2.22218bdb.chunk.js.map": "/react-blog-app/static/js/2.22218bdb.chunk.js.map",
     "index.html": "/react-blog-app/index.html",
-    "precache-manifest.0341af7f49f11889d1892c745a5e2066.js": "/react-blog-app/precache-manifest.0341af7f49f11889d1892c745a5e2066.js",
+    "precache-manifest.289c85085a2b149313cba18c2c4fa47e.js": "/react-blog-app/precache-manifest.289c85085a2b149313cba18c2c4fa47e.js",
     "service-worker.js": "/react-blog-app/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/react-blog-app/static/css/2.89f067aa.chunk.css.map",
     "static/css/main.53ffc30f.chunk.css.map": "/react-blog-app/static/css/main.53ffc30f.chunk.css.map",
-    "static/js/2.3f60ec32.chunk.js.LICENSE.txt": "/react-blog-app/static/js/2.3f60ec32.chunk.js.LICENSE.txt",
+    "static/js/2.22218bdb.chunk.js.LICENSE.txt": "/react-blog-app/static/js/2.22218bdb.chunk.js.LICENSE.txt",
+    "static/media/pokemon-center-large.jpg": "/react-blog-app/static/media/pokemon-center-large.0e68cd8d.jpg",
+    "static/media/pokemon-center-middle.jpg": "/react-blog-app/static/media/pokemon-center-middle.f3a2769b.jpg",
+    "static/media/pokemon-center-small.jpg": "/react-blog-app/static/media/pokemon-center-small.06cc3cff.jpg",
     "static/media/resized_1280.jpg": "/react-blog-app/static/media/resized_1280.6022c4d4.jpg",
     "static/media/resized_300.jpg": "/react-blog-app/static/media/resized_300.353f8ae3.jpg",
     "static/media/resized_768.jpg": "/react-blog-app/static/media/resized_768.59595eb8.jpg"
@@ -21,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.31953137.js",
     "static/css/2.89f067aa.chunk.css",
-    "static/js/2.3f60ec32.chunk.js",
+    "static/js/2.22218bdb.chunk.js",
     "static/css/main.53ffc30f.chunk.css",
-    "static/js/main.2ae3694e.chunk.js"
+    "static/js/main.a01aca01.chunk.js"
   ]
 }
