@@ -1,5 +1,8 @@
 #React Blog App
 
+#Deployed Page
+https://machikolacey.github.io/react-blog-app/
+
 <h2>The task</h2>
 <p>Develop a simple blog with the ability to search and filter posts, and view / add comments. Application must be a SPA and use multiple routes (defined below)</p>
 
