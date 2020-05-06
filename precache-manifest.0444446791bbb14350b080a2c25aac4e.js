@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19af6eef73e00a519c56044114fcc263",
+    "revision": "9a90848e948d506975edee9bca701832",
     "url": "/react-blog-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-blog-app/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "e3508b1e59b7e97f00fb",
-    "url": "/react-blog-app/static/css/main.2dbd4c05.chunk.css"
+    "revision": "875ed91c193fc6f13d66",
+    "url": "/react-blog-app/static/css/main.fb2cb0ff.chunk.css"
   },
   {
     "revision": "d2f858c656f97d649992",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-blog-app/static/js/2.aa2a8132.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3508b1e59b7e97f00fb",
-    "url": "/react-blog-app/static/js/main.1fe85727.chunk.js"
+    "revision": "875ed91c193fc6f13d66",
+    "url": "/react-blog-app/static/js/main.7e77b8eb.chunk.js"
   },
   {
     "revision": "117425faf7a4878d6c19",
