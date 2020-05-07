@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "145dd721fcade8cb8a90ff0f04a0e119",
+    "revision": "1a6700742b22ba1ad0048a9fa74cd9df",
     "url": "/react-blog-app/index.html"
   },
   {
-    "revision": "d2f858c656f97d649992",
+    "revision": "6d95b4f1931a3167e1bb",
     "url": "/react-blog-app/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "c08bbb062436f6fdccc1",
+    "revision": "82b88f2ff72c8368fcb9",
     "url": "/react-blog-app/static/css/main.ee95411a.chunk.css"
   },
   {
-    "revision": "d2f858c656f97d649992",
-    "url": "/react-blog-app/static/js/2.aa2a8132.chunk.js"
+    "revision": "6d95b4f1931a3167e1bb",
+    "url": "/react-blog-app/static/js/2.14d41b0f.chunk.js"
   },
   {
     "revision": "abd7d8a29543e2ae2a09fbc633c1f289",
-    "url": "/react-blog-app/static/js/2.aa2a8132.chunk.js.LICENSE.txt"
+    "url": "/react-blog-app/static/js/2.14d41b0f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c08bbb062436f6fdccc1",
-    "url": "/react-blog-app/static/js/main.c1f23277.chunk.js"
+    "revision": "82b88f2ff72c8368fcb9",
+    "url": "/react-blog-app/static/js/main.d9ba5fef.chunk.js"
   },
   {
     "revision": "117425faf7a4878d6c19",
@@ -52,6 +52,42 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-blog-app/static/media/avobar_small.43ad6034.jpg"
   },
   {
+    "revision": "62d892e2b53179d94818a179609be988",
+    "url": "/react-blog-app/static/media/brighton_museum_large.62d892e2.jpg"
+  },
+  {
+    "revision": "5f090dfdb46dbd4d40dd6999927a6dc0",
+    "url": "/react-blog-app/static/media/brighton_museum_middle.5f090dfd.jpg"
+  },
+  {
+    "revision": "d103d7b6dc94e6b9b59fd750fa6b0e6e",
+    "url": "/react-blog-app/static/media/brighton_museum_small.d103d7b6.jpg"
+  },
+  {
+    "revision": "747cd61bfc9866b34a21fc2b038c9dda",
+    "url": "/react-blog-app/static/media/brighton_pier_large.747cd61b.jpg"
+  },
+  {
+    "revision": "6572a0f4e3084614f11ee9bc5057fa7b",
+    "url": "/react-blog-app/static/media/brighton_pier_middle.6572a0f4.jpg"
+  },
+  {
+    "revision": "079e68f8133a33fbfe0fd441d8749bf6",
+    "url": "/react-blog-app/static/media/brighton_pier_small.079e68f8.jpg"
+  },
+  {
+    "revision": "df5fd012056d764fa4d6762170e0ba1e",
+    "url": "/react-blog-app/static/media/cafe_marmalade_large.df5fd012.jpg"
+  },
+  {
+    "revision": "3b0e517ea4b93ccb96bc1b93349830d1",
+    "url": "/react-blog-app/static/media/cafe_marmalade_middle.3b0e517e.jpg"
+  },
+  {
+    "revision": "81f28e32161a36c4fd50f0c0977dbf80",
+    "url": "/react-blog-app/static/media/cafe_marmalade_small.81f28e32.jpg"
+  },
+  {
     "revision": "17311edc384747f4cdb0049889cf3dc7",
     "url": "/react-blog-app/static/media/dog_cafe_large.17311edc.jpg"
   },
@@ -62,6 +98,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "554aa2dba5f4b73d65aad3cbc7884c54",
     "url": "/react-blog-app/static/media/dog_cafe_small.554aa2db.jpg"
+  },
+  {
+    "revision": "0242ff729710a7a17cfd28d718919c37",
+    "url": "/react-blog-app/static/media/drusillas_park_large.0242ff72.jpg"
+  },
+  {
+    "revision": "f14f94b6f607eb24eef34a46e10500a6",
+    "url": "/react-blog-app/static/media/drusillas_park_middle.f14f94b6.jpg"
+  },
+  {
+    "revision": "dd98a6b551965f342cf8c01ad2ac5a3b",
+    "url": "/react-blog-app/static/media/drusillas_park_small.dd98a6b5.jpg"
+  },
+  {
+    "revision": "aeb4ffb8968e9347a09999e4977a8eeb",
+    "url": "/react-blog-app/static/media/foodilic_large.aeb4ffb8.jpg"
+  },
+  {
+    "revision": "3dfdb9e0b355951989e46fcab904205c",
+    "url": "/react-blog-app/static/media/foodilic_middle.3dfdb9e0.jpg"
+  },
+  {
+    "revision": "1ade465f3b806d40f1c88fb790a622b7",
+    "url": "/react-blog-app/static/media/foodilic_small.1ade465f.png"
   },
   {
     "revision": "529c772996385d8daff7580d325e7a28",
