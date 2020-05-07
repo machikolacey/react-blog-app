@@ -1,8 +1,9 @@
 export const categories = [
-    { id: 1, name: 'Holidays'},
-    { id: 2, name: 'Short Breaks'},
-    { id: 3, name: 'Destinationss'},
-    { id: 3, name: 'Restaurants' }
+    { id: 1, name: 'London'},
+    { id: 2, name: 'Brighton'},
+    { id: 3, name: 'Eastbourne'},
+    { id: 4, name: 'Tokyo' },
+    { id: 5, name: 'Other' }
   ];
   
   export function getCategories() {
